@@ -2,7 +2,7 @@ module.exports = {
 
 config: {
 
-name: "help",
+name: "list",
 
 aliases: [`h`],
 
